@@ -1,0 +1,18 @@
+.details-card__container {
+  height: 100%;
+  background-color: aqua;
+  display: flex;
+}
+
+.details-card__left,
+.details-card__right {
+  width: 50%;
+}
+
+.details-card__left {
+  background-color: khaki;
+}
+
+.details-card__right {
+  background-color: salmon;
+}
